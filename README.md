@@ -11,4 +11,5 @@
 - SQL
   
 ## 📫 Contact
-- Email: NNQQ125@GMAIL.COM
+- Email: waleedghazwani.m@gmail.com
+
