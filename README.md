@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Waleed!
 
-🎓 I'm a recent Computer Science graduate from Al Baha University.  
 📊 I'm passionate about data analysis and love turning data into insights.
 
 ## 🛠️ Skills
@@ -11,5 +10,5 @@
 - SQL
   
 ## 📫 Contact
-- Email: waleedghazwani.m@gmail.com
+- Email: nnqq125@gmail.com
 
