@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Waleed Ghazwani </h1>
+<h1 align="center">Hi, I'm Waleed  </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=750&lines=Computer+Science+Graduate;Data+Analysis+%7C+Data+Engineering;Digital+Transformation+%7C+Business+Insights;Turning+Data+into+Actionable+Insights" />
