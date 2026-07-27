@@ -77,7 +77,7 @@ Developed a web-based academic workflow system using Node.js, Express.js, and a 
   <a href="https://linkedin.com/in/waleed-assad">
     <img src="https://img.shields.io/badge/LinkedIn-Waleed%20Ghazwani-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://my-portfolio-kappa-tan-98.vercel.app/">
+  <a href="https://portfolio-main-fawn-five-35.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
